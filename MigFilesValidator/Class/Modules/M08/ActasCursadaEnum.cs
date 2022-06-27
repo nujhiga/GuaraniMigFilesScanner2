@@ -1,0 +1,30 @@
+﻿namespace PasifaeG3Migrations.Modules.M08
+{
+    public enum ActasCursadaEnum
+    {
+        origen,
+        nro_acta,
+        fecha,
+        renglones_folio,
+        nro_libro,
+        nro_tomo,
+        comision_nombre,
+        anio_academico,
+        periodo_lectivo_nombre,
+        actividad_codigo,
+        tipo_documento,
+        nro_documento,
+        propuesta,
+        plan_version,
+        folio_fisico,
+        folio,
+        renglon,
+        pct_asistencia,
+        cond_regularidad,
+        fecha_vigencia,
+        escala_nota,
+        nota,
+        resultado,
+        observaciones
+    }
+}

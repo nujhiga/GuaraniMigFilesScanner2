@@ -1,0 +1,32 @@
+﻿namespace GuaraniMigFilesScanner.Class.MigFiles
+{
+    public enum MigFileType
+    {
+        None,
+        mig_personas,
+        mig_docentes,
+        mig_tribunal_examen,
+        mig_actividades,
+        mig_anios,
+        mig_periodos_lectivos,
+        mig_comisiones,
+        mig_turnos,
+        mig_llamados,
+        mig_mesas,
+        mig_llamados_mesa,
+        mig_alumnos,
+        mig_requisitos,
+        mig_insc_cursada,
+        mig_evaluaciones,
+        mig_eval_detalle,
+        mig_insc_examen,
+        mig_libros_de_actas,
+        mig_acta_cursada_promocion,
+        mig_equivalencia,
+        mig_mesas_examen_fc,
+        mig_actas_examen_detalle_fc,
+        mig_aprob_x_resolucion,
+        mig_actas_examen,
+        mig_actas_examen_detalle
+    }
+}

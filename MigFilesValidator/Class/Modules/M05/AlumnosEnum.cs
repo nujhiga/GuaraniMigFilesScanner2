@@ -1,0 +1,31 @@
+﻿namespace PasifaeG3Migrations.Modules.M05
+{
+    public enum AlumnosEnum
+    {
+        legajo,
+        tipo_documento,
+        nro_documento,
+        propuesta,
+        plan_version_ingreso,
+        plan_version_actual,
+        plan_version_actual_fecha,
+        ubicacion,
+        modalidad,
+        regular,
+        calidad,
+        anio_academico,
+        fecha_inscripcion,
+        estado_inscripcion,
+        noreg_anio_academico,
+        noreg_fecha,
+        noreg_causa,
+        pasivo_fecha,
+        pasivo_motivo,
+        egre_titulo,
+        egre_fecha_egreso,
+        egre_nro_expediente,
+        egre_promedio,
+        egre_promedio_sin_aplazos,
+        egre_observaciones
+    }
+}

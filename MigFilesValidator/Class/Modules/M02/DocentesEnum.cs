@@ -1,0 +1,42 @@
+﻿namespace PasifaeG3Migrations.Modules.M02
+{
+    public enum DocentesEnum
+    {
+        pais_documento,
+        tipo_documento,
+        nro_documento,
+        cuit_cuil,
+        apellido,
+        nombres,
+        docente_legajo,
+        docente_estado,
+        usuario,
+        clave,
+        sexo,
+        fecha_nacimiento,
+        localidad_nacimiento,
+        localidad_nacim_nombre,
+        partido_nacim_nombre,
+        provincia_nacim_nombre,
+        nacionalidad,
+        fecha_ingreso_pais,
+        pais_origen,
+        email,
+        celular_compania,
+        telefono_codigo_area_cel,
+        telefono_numero_cel,
+        telefono_codigo_area_fijo,
+        telefono_numero_fijo,
+        localidad,
+        localidad_nombre,
+        partido_nombre,
+        provincia_nombre,
+        codigo_postal,
+        barrio,
+        calle,
+        numero,
+        piso,
+        departamento,
+        unidad
+    }
+}

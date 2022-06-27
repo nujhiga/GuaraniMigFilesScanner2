@@ -1,0 +1,30 @@
+﻿namespace PasifaeG3Migrations.Modules.M03
+{
+    public enum ActividadesEnum
+    {
+        codigo,
+        nombre,
+        nombre_abreviado,
+        entidad_subtipo,
+        estado,
+        disponible_para,
+        responsable_academica,
+        creditos,
+        horas_semanales,
+        horas_totales,
+        requiere_cursada,
+        requiere_examen,
+        permite_promocion,
+        permite_rendir_libre,
+        aprobacion_x_resolucion,
+        vigencia,
+        promediable,
+        sale_listado,
+        cantidad_de_aplazos,
+        escala_nota_cursada_regular,
+        escala_nota_cursada_promocion,
+        escala_nota_examen,
+        escala_nota_equivalencia,
+        contenido
+    }
+}

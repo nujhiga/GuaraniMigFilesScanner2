@@ -1,0 +1,40 @@
+﻿namespace PasifaeG3Migrations.Modules.M09
+{
+    public enum EquivalenciasEnum
+    {
+        tipo_documento,
+        nro_documento,
+        propuesta_alumno,
+        plan_version,
+        fecha_tramite,
+        origen,
+        documento_numero,
+        documento_fecha,
+        documento_tipo,
+        institucion,
+        responsable_academica,
+        convenio,
+        propuesta_origen,
+        plan_origen,
+        observaciones,
+        elemento,
+        alcance,
+        fecha_otorgada,
+        escala_nota,
+        nota,
+        resultado,
+        fecha_vigencia,
+        temas_a_rendir,
+        actividad_ext,
+        fecha_ext,
+        nota_ext,
+        libro_ext,
+        acta_ext,
+        folio_ext,
+        actividad_int,
+        fecha_int,
+        nota_int,
+        origen_int,
+        resultado_int
+    }
+}

@@ -1,0 +1,30 @@
+﻿namespace PasifaeG3Migrations.Class.DbSetsServices.G3Structures.AuxiliarStructs
+{
+    public enum AuxSgaActas
+    {
+        id_acta,
+        nro_acta,
+        renglones_folio,
+        fecha_generacion,
+        estado,
+        id_acta_original,
+        tipo_acta,
+        origen,
+        evaluacion,
+        comision,
+        llamado_mesa,
+        alumno,
+        plan_version,
+        fecha,
+        fecha_vigencia,
+        folio,
+        renglon,
+        escala_nota,
+        nota,
+        resultado,
+        cond_regularidad,
+        instancia,
+        aEstado,
+        pct_asistencia
+    }
+}
